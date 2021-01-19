@@ -3,8 +3,8 @@ CSS Reset, Linking JS, GitHub setting up folders and files
 
 ### Prerequisites
 1. set up a folder with properly linked Javascript file and CSS reset.
-2. uploaded to GitHub
-3. submit the repo link via FOL dropbix. - DO not submit files.
+2. The file must be uploaded to GitHub.
+3. submit the repo link via FOL dropbox. - DO not submit files.
 
 # MIT License
 Copyright 2021 Oksil Joo
